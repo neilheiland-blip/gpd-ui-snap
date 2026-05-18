@@ -2,6 +2,8 @@
 
 Native Windows helper for fast joystick-driven UI navigation in GPD mouse mode.
 
+![GPD UI Navigator interaction overview](assets/hero-white-keyboard-joystick-overlay.png)
+
 ## Controls
 
 - `Ctrl+Alt+F12`: toggle enabled.
